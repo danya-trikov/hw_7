@@ -8,13 +8,13 @@
     margin: 0 auto;
 }
 .hero{
-    background: url("/img/Rectangle_48.jpg");
+    background: url("./img/Rectangle_48.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .hero2{
-    background: url("/img/bgimg2.jpg");
+    background: url("./img/bgimg2.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
